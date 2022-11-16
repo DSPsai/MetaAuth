@@ -11,6 +11,11 @@
     font-size: 1.2em;
 }
 
+.ytvid {
+    width: 80vw !important;
+    height: 80vh
+}
+
 .button:hover {
     background: -webkit-linear-gradient(left, #e5771b, #e5771b);
 }
